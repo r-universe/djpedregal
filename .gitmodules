@@ -5,3 +5,7 @@
 [submodule "UComp"]
 	path = UComp
 	url = https://github.com/cran/UComp
+[submodule "tsexplorer"]
+	path = tsexplorer
+	url = https://github.com/djpedregal/tsexplorer
+	subdir = r
